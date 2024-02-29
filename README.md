@@ -18,6 +18,7 @@
 
 > [!WARNING]
 > To follow-up the code in your own computer you may install pandas, NumPy, matplotlib, seaborn and geopandas.
+
 > [!NOTE]
 > If you'd like to collab sending a pull-request would be much appreciated :)
 
