@@ -1,3 +1,9 @@
+> [!WARNING]
+> To follow-up the code in your own computer you may install pandas, NumPy, matplotlib, seaborn and geopandas.
+
+> [!NOTE]
+> If you'd like to collab sending a pull-request would be much appreciated :)
+
 # Adidas 2020-2021 US Sales EDA insights
 ### Vicenç Lleixà (https://github.com/vicenclleixa)
 
@@ -15,12 +21,6 @@
 ##### 2.2.5.Sales and Profit Comparison: California vs. Florida
 ##### 2.2.6.Revenue and Earnings by Retailer
 ##### 2.2.7.Revenue and Earnings by Product
-
-> [!WARNING]
-> To follow-up the code in your own computer you may install pandas, NumPy, matplotlib, seaborn and geopandas.
-
-> [!NOTE]
-> If you'd like to collab sending a pull-request would be much appreciated :)
 
 ## 0.Introduction
 ##### In this Exploratory Data Analysis, we examine a staggering total of 899,902,125 Adidas sales that occurred in the United States of America during the years 2020 and 2021. 
