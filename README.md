@@ -71,3 +71,63 @@
 
 ##### However, the Midwest reflects the least sales among the regions I analyzed, with sales totaling about $135.8 million. This figure could reflect a range of factors from economic conditions, consumer preferences, to the competitive landscape, which may differ significantly from those in the leading regions. It's important to consider these regional characteristics when strategizing for growth and expansion.
 
+##### **In terms of profitability, the West again leads with an operating profit of approximately $89.6 million. This not only illustrates high sales volumes but also effective operational efficiencies that may include well-managed costs and successful marketing strategies.** The Northeast and the South also report substantial profits, but it is worth noting that despite lower sales, the South's operating profit is close to that of the Southeast, suggesting higher profit margins.
+
+##### These insights into the sales and profits by region for Adidas are crucial for making informed strategic decisions. Understanding the disparities across different regions can help in tailoring region-specific strategies that could involve targeted marketing campaigns, adjusted pricing strategies, or even supply chain optimizations to improve overall performance, particularly **in regions like the Midwest where there is room for growth.**
+
+### 2.2.4.Revenue and Earnings by State
+![Sales Profit State](https://github.com/vicenclleixa/Adidas-US-Sales-2020-2021/blob/main/plots/Sales%20profit%20State.png?raw=true "Sales Profit State")
+##### Upon reviewing the sales and profit data for Adidas by state in the USA from 2020 to 2021, I observed several key points in the data I've plotted. **New York tops the list with the highest total sales amounting to approximately $64.2 million, followed closely by California with sales of about $60.1 million, and Florida with $59.2 million.** These leading states suggest a strong consumer base and market presence for Adidas, likely benefiting from large populations and robust economic conditions that favor retail growth.
+
+##### Texas also shows significant sales figures at roughly $46.4 million, yet there is a noticeable drop from the top three states, indicating regional differences in sales performance. The data for other states like South Carolina, Washington, and North Carolina, with sales ranging from $29.3 million to $23.9 million, reflects a strong market presence but also suggests there is potential for growth.
+
+##### On the lower end of the sales spectrum, I notice states like **North Dakota, Wisconsin, Iowa, Minnesota, and Nebraska**, where sales figures are comparatively lower, ranging from approximately $7.7 million to $5.9 million. This could point to less market penetration or lower demand, and these figures could be critical for Adidas when considering strategic market initiatives or targeted marketing campaigns to boost sales in these regions.
+
+##### In terms of profit, the data I've plotted showcases a different set of leaders with Charleston, New York, and Miami taking the top spots. This variation between sales and profit figures across states indicates different operational efficiencies, cost structures, and potentially varying consumer behaviors that affect profitability.
+
+##### As I analyze these results, it becomes clear that while certain states present robust sales and profit figures for Adidas, there are others with room for improvement. Understanding why certain states like North Dakota, Wisconsin, Iowa, Minnesota, and Nebraska are at the lower end could be key to unlocking new opportunities for market expansion and increased sales for Adidas in the future.
+![US Map](https://github.com/vicenclleixa/Adidas-US-Sales-2020-2021/blob/main/plots/US%20map.png?raw=true "US Map")
+![Alaska Map](https://github.com/vicenclleixa/Adidas-US-Sales-2020-2021/blob/main/plots/Alaska%20map.png?raw=true "Alaska Map")
+##### **The Map Plot I've crafted here, with Alaska shown separately, delineates the sales distribution throughout the states.** The map employs a color gradient as a direct measure of sales volume, where a deeper hue denotes greater sales. This chromatic stratification facilitates an instant visual identification of the states that are contributing the most to sales revenue, granting an intuitive and straightforward grasp of the geographical dynamics of sales performance. This visual tool is particularly useful for highlighting regional market strengths and pinpointing areas with potential for growth.
+
+### 2.2.5.Sales and Profit Comparison: California vs. Florida
+![California Florida Sales Profit Product Comparison](https://github.com/vicenclleixa/Adidas-US-Sales-2020-2021/blob/main/plots/California%20Florida%20Sales%20Profit%20Product%20comparisson.png?raw=true "California Florida Sales Profit Product Comparison")
+
+##### In this graph I've developed, we're exploring the sales and profit data for Adidas in California and Florida. 
+
+##### At first glance, it's apparent that while California edges out Florida in total sales with approximately $60.2 million compared to Florida's $59.3 million, the story changes when we look at profits. Florida actually surpasses California with reported profits of around $20.9 million against California's $19.3 million. This intriguing discrepancy is what sparked my idea to delve deeper into the data.
+
+##### Breaking down sales by product for each state, we see that categories like Men's and Women's Athletic Footwear, and Apparel generate significant revenue. However, it's particularly interesting to note the variations in profit margins for these products. Despite California's higher overall sales, Florida's strategy or cost structure appears to be more efficient, yielding greater profitability.
+
+##### Reflecting on the operating profit by product, we see that Men's Street Footwear boasts the highest profit at approximately $82.8 million, which is a testament to its popularity and potentially higher margins. Women's Apparel also shows impressive profit figures at around $68.7 million. These categories may have contributed significantly to Florida's leading profit position despite having slightly lower overall sales than California.
+
+##### The shift in positions between sales and profit for these products could be due to a number of factors, such as differences in consumer preferences, pricing strategies, promotional activities, or even the cost of goods sold in each state. It's possible that Florida has optimized its mix of products sold, focusing on those with higher margins, or that operational efficiencies in Florida are better than in California.
+
+##### This analysis underscores a crucial point: higher sales do not always equate to higher profits. It highlights the importance of understanding the underlying profitability of product lines and the efficiency of business operations. As a result, this graph not only presents data but also tells a story of market dynamics and strategic financial management within Adidas' operations in different states.
+
+### 2.2.6.Revenue and Earnings by Retailer
+
+![Sales Retailer](https://github.com/vicenclleixa/Adidas-US-Sales-2020-2021/blob/main/plots/Sales%20retailer.png?raw=true "Sales Retailer")
+
+##### In this plot I've developed, we're looking at the sales figures for Adidas products across various retailers from 2020 to 2021 in the USA. The plot reveals that Foot Locker leads as the retailer with the highest sales, reaching towards the 200 million mark, which underscores their strong market presence and perhaps a focused strategy on selling athletic wear.
+
+#### Following Foot Locker, we have Sports Direct and Kohl's, both of which also show significant sales figures but do not quite reach the same heights as Foot Locker. Their positions suggest that while they are important outlets for Adidas products, there are differences in sales performance that could be attributed to their customer base, store locations, or marketing strategies.
+
+#### Interestingly, Amazon, a giant in the retail space, reports lower Adidas sales than the specialized athletic retailers. This could reflect the competitive nature of online marketplaces and the vast diversity of brands available, which might dilute the concentration of sales for any single brand.
+
+#### Finally, Walmart shows the lowest sales among the depicted retailers. This could be due to a variety of factors including Walmart's broader market focus, which may not align as strongly with Adidas' target demographic, or it could be due to the availability and variety of Adidas products offered at Walmart stores.
+
+#### This sales data is crucial for Adidas as it informs the company about which retail partnerships are most fruitful and where there might be room to grow or improve their retail strategies. Understanding these dynamics can help Adidas in negotiating terms with retailers, planning marketing strategies, and making decisions about product distribution.
+
+### 2.2.7.Revenue and Earnings by Product
+![Sales Profit Product](https://github.com/vicenclleixa/Adidas-US-Sales-2020-2021/blob/main/plots/Sales%20profit%20product.png?raw=true "Sales Profit Product")
+
+##### In Section 2.2.5 of our analysis, we began to notice distinct differences in profit across various product categories for Adidas sales in the USA from 2020 to 2021. The provided plots illustrate a comparison between the number of units sold and the operating profit for each product category.
+
+##### Starting with sales, **Men's Street Footwear stands out as the top-selling category**, showing that this product line resonates strongly with consumers, leading to high unit sales. **Men's Athletic Footwear and Women's Apparel also show robust sales figures**, which suggests that these categories are popular among Adidas' offerings.
+
+##### However, when we shift our focus to operating profit, the narrative takes an interesting turn. **Despite Men's Street Footwear leading in sales, it is Men's Apparel that appears to lead in profitability**. This suggests that Men's Apparel commands higher profit margins compared to Men's Street Footwear, which could be due to a variety of factors such as pricing strategies, production costs, or a higher perceived value leading to greater willingness to pay among consumers.
+
+##### Similarly, Women's Street Footwear, while being the least sold in terms of units, does not fall at the bottom in terms of profit. This could indicate that **despite lower sales volumes, the profit margins on Women's Street Footwear are substantial, which can compensate for the lower unit sales.**
+
+##### These disparities between sales and profit accentuate the importance of not just selling volume but also selling the right mix of products that contribute to overall profitability. It is crucial for Adidas to continue to evaluate and strategize around these variances to optimize both their product portfolio and pricing strategies to enhance profitability.
