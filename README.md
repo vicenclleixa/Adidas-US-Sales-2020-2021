@@ -1,13 +1,13 @@
+# Adidas 2020-2021 US Sales EDA insights
+### Vicenç Lleixà (https://github.com/vicenclleixa)
+
+![A Kroger worker](https://github.com/vicenclleixa/Adidas-US-Sales-2020-2021/blob/main/other%20images/Adidas%20Store.jpg?raw=true)
+
 > [!WARNING]
 > To follow-up the code in your own computer you may install pandas, NumPy, matplotlib, seaborn and geopandas.
 
 > [!NOTE]
 > If you'd like to collab sending a pull-request would be much appreciated :)
-
-# Adidas 2020-2021 US Sales EDA insights
-### Vicenç Lleixà (https://github.com/vicenclleixa)
-
-![A Kroger worker](https://github.com/vicenclleixa/Adidas-US-Sales-2020-2021/blob/main/other%20images/Adidas%20Store.jpg?raw=true)
 
 ## Index:
 ##### 1.Data acquisition, formats and libraries:
